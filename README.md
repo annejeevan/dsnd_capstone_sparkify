@@ -28,5 +28,7 @@ Markdown cells were used to assist in walking through the thought process for in
 ## 4. Results - Blog Post <a name="results"></a>
 The main findings of the code can be found at the post available [here](blog.md).
 
+Also, shared my insights on [Medium](https://medium.com/@jeevananandanne/predicting-churn-of-customers-423461439422)
+
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Udacity, AWS & IBM
